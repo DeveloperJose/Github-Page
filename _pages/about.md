@@ -9,18 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-# Introduction
-Hello there! I am a Computer Science Ph.D candidate at [The University of Texas at El Paso](https://utep.edu). My dissertation focuses on approaches we can use to improve neural networks trained with **limited data** based on knowledge of the underlying **physics** interactions and apply that to **segment multi-spectral satellite images** of glacial ice in the Hindu-Kush Himalayas using **PyTorch**. You can find my Dissertation Proposal [here]({{ site.baseurl }}/files/Dissertation_Proposal.pdf)
+Hello there! I am a Computer Science Ph.D candidate at [The University of Texas at El Paso](https://utep.edu). My dissertation focuses on approaches we can use to improve neural networks trained with **limited data** based on knowledge of the underlying **physics** interactions and apply that to **segment multi-spectral satellite images** of glacial ice in the Hindu-Kush Himalayas using **PyTorch**. You can find my dissertation proposal [here](../files/Dissertation_Proposal.pdf) and my full dissertation will be available once I graduate!
 
 My previous research includes:
-* Developing and training **Physics-Informed LSTMs** for next frame prediction of 2D fluid simulations using **PyTorch** in 2022. [Proceedings of the ASME 2022 Fluids Engineering Division Summer Meeting paper](https://asmedigitalcollection.asme.org/FEDSM/proceedings-abstract/FEDSM2022/85840/V002T05A014/1147131) 
-* Developing and training a **Deep Q-Network** for the PowerTAC retail market simulation using **Deeplearning4j** in Java in 2019. [Proceedings of SPIE Defense + Commercial Sensing Symposium paper](https://par.nsf.gov/servlets/purl/10311111)
-* Mapping **rat brain images** to atlases using **OpenCV** through feature-based matching in 2018. [Frontiers in Systems Neuroscience journal article](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2018.00007/ful)
+
+1. Developing and training **Physics-Informed LSTMs** for next frame prediction of 2D fluid simulations using **PyTorch** in 2022. [Proceedings of the ASME 2022 Fluids Engineering Division Summer Meeting paper](https://asmedigitalcollection.asme.org/FEDSM/proceedings-abstract/FEDSM2022/85840/V002T05A014/1147131) 
+![](../images/publications/physics-lstm-architecture.png)
+
+2. Developing and training a **Deep Q-Network** for the PowerTAC retail market simulation using **Deeplearning4j** in Java in 2019. [Proceedings of SPIE Defense + Commercial Sensing Symposium paper](https://par.nsf.gov/servlets/purl/10311111)
+
+3. Mapping **rat brain images** to atlases using **OpenCV** through feature-based matching in 2018. [Frontiers in Systems Neuroscience journal article](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2018.00007/ful)
+![](../images/publications/rat-brain-matching-1.png)
+![](../images/publications/rat-brain-matching-2.png)
 
 You can find more info about all my research [in my publications page]({{ site.baseurl }}/publications).
 
 # Experience
-I am highly proficient in Python and have worked as a Teaching Assistant for my University multiple years teaching Python to both undergraduate and graduate students for courses such as Data Structures, Computer Vision with OpenCV, and Deep Learning with Keras, Tensorflow, and PyTorch alongside my research advisor [Dr. Olac Fuentes](https://www.utep.edu/cs/people/fuentes.html).
+I am highly proficient in **Python** and have worked as a **Teaching Assistant** for my University multiple years teaching Python to both undergraduate and graduate students for courses such as Data Structures, Computer Vision with OpenCV, and Deep Learning with Keras, Tensorflow, and PyTorch alongside my research advisor [Dr. Olac Fuentes](https://www.utep.edu/cs/people/fuentes.html).
 
 I also worked 1.5 years as a Machine Learning Ph.D Intern at [The Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) where I worked on deploying production level **PyTorch** models and how to integrate them as part of MLOps with either the **Prefect** or **FastAPI** libraries so the models can be used by other applications.
 

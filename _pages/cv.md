@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/Perez_Jose_CV_01_20_2025.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/Perez_Jose_CV_01_20_2025.pdf" width="1280" height="720" type='application/pdf'> 
 
 <!-- 
 Education
