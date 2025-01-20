@@ -6,10 +6,9 @@ category: conferences
 # excerpt: 'This paper is about fixing template issue #693.'
 slidesurl: 'https://docs.google.com/presentation/d/1cUp4tfF0lszLI2uwdVNTzlpGmZfAtLFitSS1evEE4QE/edit#slide=id.g2bfed361228_1_0'
 paperurl: 'http://developerjose.github.io/files/Dissertation_Proposal.pdf'
-date: TBD
-venue: 'TBD'
-paperurl: 'TBD'
-citation: 'TBD'
+date: 2024-05-07
+# venue: 'TBD'
+# citation: 'TBD'
 ---
 
 This is the proposal I presented to my graduate school committee to fulfill the requirements of my Computer Science Ph.D. The full dissertation will be available when I complete it and graduate.
