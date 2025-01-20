@@ -1,7 +1,7 @@
 ---
 title: 'TrueNAS Scale Reverse Proxy with Nginx and DuckDNS'
 date: 2025-01-20
-# permalink: /posts/2025/01/blog-post-4/
+permalink: /posts/true-nas-scale-nginx/
 tags:
   - truenas-scale
 ---
