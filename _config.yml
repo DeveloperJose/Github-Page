@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jose G. Perez - Personal Website"
+title                    : "DeveloperJose"
 title_separator          : "-"
 name                     : &name "Jose G. Perez"
-description              : &description ""
+description              : &description "Personal website of Jose G. Perez, a Computer Science Ph.D Candidate at The University of Texas at El Paso with a focus on Deep Learning applications."
 url                      : https://developerjose.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "developerjose/Github-Page"
+repository               : "developerjose/developerjose.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Jose G. Perez"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science Ph.D Candidate at The University of Texas at El Paso with a focus on Deep Learning applications."
+  bio              : "Computer Science Ph.D Candidate at The University of Texas at El Paso. My dissertation focuses on approaches we can use to improve neural networks trained with limited data and used to segment multi-spectral satellite images of glacial ice."
   location         : "Texas"
   employer         : "The University of Texas at El Paso"
-  uri              : # URL
+  uri              : http://github.com/DeveloperJose # URL
   email            : "josegperez@mail.com"
 
   # Academic websites
