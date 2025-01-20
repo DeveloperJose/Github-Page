@@ -142,16 +142,4 @@ proxy_redirect off;
 # Conclusion
 I must admit that it took me a while to figure out how to get this to work when it's surprisingly simple. I gave up multiple times over the months before figuring it out earlier today. Hopefully you learned a thing or two and were able to get it to work for your own setup!
 
-If you found it particularly useful to save money by not buying a domain by following my tutorial you can consider supporting me by sending a small donation through Ko-fi.
-
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('developerjose', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
-
-------
+If you found it particularly useful to save money by not buying a domain by following my tutorial you can consider supporting me by sending a small donation through Ko-fi. https://ko-fi.com/developerjose
