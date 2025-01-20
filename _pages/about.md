@@ -1,12 +1,32 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "My Personal Webpage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+{% include base_path %}
+
+# Introduction
+Hello there! I am a Computer Science Ph.D candidate at [The University of Texas at El Paso](https://utep.edu). My dissertation focuses on approaches we can use to improve neural networks trained with **limited data** based on knowledge of the underlying **physics** interactions and apply that to **segment multi-spectral satellite images** of glacial ice in the Hindu-Kush Himalayas using **PyTorch**. You can find my Dissertation Proposal [here]({{ site.baseurl }}/files/Dissertation_Proposal.pdf)
+
+My previous research includes:
+* Developing and training **Physics-Informed LSTMs** for next frame prediction of 2D fluid simulations using **PyTorch** in 2022. [Proceedings of the ASME 2022 Fluids Engineering Division Summer Meeting paper](https://asmedigitalcollection.asme.org/FEDSM/proceedings-abstract/FEDSM2022/85840/V002T05A014/1147131) 
+* Developing and training a **Deep Q-Network** for the PowerTAC retail market simulation using **Deeplearning4j** in Java in 2019. [Proceedings of SPIE Defense + Commercial Sensing Symposium paper](https://par.nsf.gov/servlets/purl/10311111)
+* Mapping **rat brain images** to atlases using **OpenCV** through feature-based matching in 2018. [Frontiers in Systems Neuroscience journal article](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2018.00007/ful)
+
+You can find more info about all my research [in my publications page]({{ site.baseurl }}/publications).
+
+# Experience
+I am highly proficient in Python and have worked as a Teaching Assistant for my University multiple years teaching Python to both undergraduate and graduate students for courses such as Data Structures, Computer Vision with OpenCV, and Deep Learning with Keras, Tensorflow, and PyTorch alongside my research advisor [Dr. Olac Fuentes](https://www.utep.edu/cs/people/fuentes.html).
+
+I also worked 1.5 years as a Machine Learning Ph.D Intern at [The Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) where I worked on deploying production level **PyTorch** models and how to integrate them as part of MLOps with either the **Prefect** or **FastAPI** libraries so the models can be used by other applications.
+
+You can find more info about all my experience teaching and working [in my CV page]({{ site.baseurl }}/cv).
+
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
@@ -46,4 +66,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
