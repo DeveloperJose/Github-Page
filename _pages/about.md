@@ -14,13 +14,13 @@ Hello there! I am a Computer Science Ph.D candidate at [The University of Texas 
 My previous research includes:
 
 1. Developing and training **Physics-Informed LSTMs** for next frame prediction of 2D fluid simulations using **PyTorch** in 2022. [Proceedings of the ASME 2022 Fluids Engineering Division Summer Meeting paper](https://asmedigitalcollection.asme.org/FEDSM/proceedings-abstract/FEDSM2022/85840/V002T05A014/1147131) 
-![](../images/publications/physics-lstm-architecture.png)
+![]({{ site.baseurl }}/images/publications/physics-lstm-architecture.png)
 
 2. Developing and training a **Deep Q-Network** for the PowerTAC retail market simulation using **Deeplearning4j** in Java in 2019. [Proceedings of SPIE Defense + Commercial Sensing Symposium paper](https://par.nsf.gov/servlets/purl/10311111)
 
 3. Mapping **rat brain images** to atlases using **OpenCV** through feature-based matching in 2018. [Frontiers in Systems Neuroscience journal article](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2018.00007/ful)
-![](../images/publications/rat-brain-matching-1.png)
-![](../images/publications/rat-brain-matching-2.png)
+![]({{ site.baseurl }}/images/publications/rat-brain-matching-1.png)
+![]({{ site.baseurl }}/images/publications/rat-brain-matching-2.png)
 
 You can find more info about all my research [in my publications page]({{ site.baseurl }}/publications).
 
